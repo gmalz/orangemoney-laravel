@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services;
+namespace OrangeMoney\Services;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;

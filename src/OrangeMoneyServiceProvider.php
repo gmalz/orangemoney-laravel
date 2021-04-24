@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Providers;
+namespace OrangeMoney;
 
-use App\Services\OrangeMoney;
+use OrangeMoney\Services\OrangeMoney;
 use Illuminate\Support\ServiceProvider;
 
 class OrangeMoneyService extends ServiceProvider
