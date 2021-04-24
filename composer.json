@@ -1,5 +1,5 @@
 {
-    "name": "mgor/orangemoney-laravel",
+    "name": "gmalz/orangemoney-laravel",
     "type": "library",
     "description": "Orange Money web payment Client custom engine.",
     "keywords": ["orangemoney", "orange", "money", "laravel"],
