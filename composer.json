@@ -12,7 +12,8 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "guzzlehttp/guzzle": "^7.0.1"
+        "guzzlehttp/guzzle": "^7.0.1",
+        "another-vendor/package": "1.*"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
