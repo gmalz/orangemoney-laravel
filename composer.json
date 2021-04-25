@@ -24,11 +24,8 @@
     },
     "autoload": {
         "psr-4": {
-            "OrangeMoney\\": "src"
+            "OrangeMoney\\": "src/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {}
     },
     "scripts": {
         "post-autoload-dump": [
@@ -52,11 +49,5 @@
             }
         }
     },
-    "config": {
-        "optimize-autoloader": true,
-        "preferred-install": "dist",
-        "sort-packages": true
-    },
-    "minimum-stability": "dev-master",
-    "prefer-stable": true
+    "minimum-stability": "dev"
 }
