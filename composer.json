@@ -12,8 +12,7 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "guzzlehttp/guzzle": "^7.0.1",
-        "gmalz/orangemoney-laravel": "^0.0.1"
+        "guzzlehttp/guzzle": "^7.0.1"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
@@ -50,5 +49,6 @@
             }
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
