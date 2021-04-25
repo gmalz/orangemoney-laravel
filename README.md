@@ -10,7 +10,7 @@
 ## Install
 
 ``` bash
-$ composer require gmalz/oragnemoney-laravel
+$ composer require gmalz/orangemoney-laravel
 ```
 
 ## License
