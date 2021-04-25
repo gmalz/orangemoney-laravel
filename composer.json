@@ -25,7 +25,7 @@
                 "OrangeMoney\\OrangeMoneyServiceProvider"
             ],
             "aliases": {
-                "OrangeMoney": "OrangeMoney\\Facades\\OrangeMoney"
+                "OrangeMoney": "OrangeMoney\\Facades\\OrangeMoneyFacade"
             }
         }
     },
