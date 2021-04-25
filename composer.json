@@ -44,7 +44,12 @@
     },
     "extra": {
         "laravel": {
-            "dont-discover": []
+            "providers": [
+                "OrangeMoney\\OrangeMoneyServiceProvider"
+            ],
+            "aliases": {
+                "OrangeMoney": "OrangeMoney\\Facades\\OrangeMoney"
+            }
         }
     },
     "config": {
